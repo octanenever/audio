@@ -1,0 +1,12 @@
+# Blender 5.2.3 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl e5aa8ba6-3cd6-4350-8547-8c56a7235d5c.004
+Ns 29.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Octane/Downloads/btr-90m-russia/source/BTR-90/textures/btr_90_2004_body_c_ussr_camo_green.jpg
+map_Ks C:/Users/Octane/Downloads/btr-90m-russia/source/BTR-90/textures/btr_90_2004_body_n_s.jpg
