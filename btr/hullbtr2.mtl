@@ -1,0 +1,72 @@
+# Blender 5.2.3 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl 0e99990f-49d1-4c1a-998d-8393f161c2d5
+Ns 255.000015
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 9
+map_Kd btr-90m-russia/source/BTR-90/textures/headlight_glass_c.jpg
+map_Ks btr-90m-russia/source/BTR-90/textures/headlight_glass_n_s.jpg
+map_d btr-90m-russia/source/BTR-90/textures/headlight_glass_c_a.png
+
+newmtl 5eb49432-dac2-4c33-9fde-c0316567a76c
+Ns 255.000015
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 9
+map_Kd btr-90m-russia/source/BTR-90/textures/side_glass_c.jpg
+map_Ks btr-90m-russia/source/BTR-90/textures/side_glass_n_s.jpg
+map_d btr-90m-russia/source/BTR-90/textures/side_glass_c_a.png
+
+newmtl 6f60243d-43a6-4128-bce5-30a32b652a9d
+Ns 29.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd btr-90m-russia/source/BTR-90/textures/chain_a_c.jpg
+map_Ks btr-90m-russia/source/BTR-90/textures/chain_a_n_s.jpg
+map_d btr-90m-russia/source/BTR-90/textures/chain_a_c_a.png
+
+newmtl 8329a430-51ae-4ed4-9c84-d061d36367b7
+Ns 255.000015
+Ka 1.000000 1.000000 1.000000
+Kd 0.165000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl b95ccbd5-d34e-4a2b-b333-5c7737e50ae2
+Ns 29.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd btr-90m-russia/source/BTR-90/textures/headlight_glass_c.jpg
+map_Ks btr-90m-russia/source/BTR-90/textures/headlight_glass_n_s.jpg
+
+newmtl def941f8-8139-4746-b53a-d93e36671db9
+Ns 29.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd btr-90m-russia/source/BTR-90/textures/btr_90_2004_body_c_ussr_camo_green.jpg
+map_Ks btr-90m-russia/source/BTR-90/textures/btr_90_2004_body_n_s.jpg
+
+newmtl e5aa8ba6-3cd6-4350-8547-8c56a7235d5c
+Ns 29.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd btr-90m-russia/source/BTR-90/textures/btr_90_2004_body_c_ussr_camo_green.jpg
+map_Ks btr-90m-russia/source/BTR-90/textures/btr_90_2004_body_n_s.jpg
