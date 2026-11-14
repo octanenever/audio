@@ -1,0 +1,32 @@
+# Blender 5.3.0 MTL File: 'None'
+# www.blender.org
+
+newmtl 5d500388-5ad8-4a97-84d7-c5dd5bd87d67
+Ns 29.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd fpv-drone/source/FPV Drone/fpv_kamikaze_drone_1_c.jpg
+map_Ks fpv-drone/source/FPV Drone/fpv_kamikaze_drone_1_n_s.jpg
+
+newmtl 94d7499c-18e5-4526-97d9-ea31b09f77cf
+Ns 29.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd fpv-drone/source/FPV Drone/fpv_kamikaze_drone_c.jpg
+map_Ks fpv-drone/source/FPV Drone/fpv_kamikaze_drone_n_s.jpg
+
+newmtl c710e25a-6bbb-4a14-85c4-8b4dd35d15b0
+Ns 29.999998
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.000000 1.000000
+Ks 0.067000 0.067000 0.067000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
