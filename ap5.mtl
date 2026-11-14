@@ -1,0 +1,72 @@
+# Blender 5.3.0 MTL File: 'None'
+# www.blender.org
+
+newmtl 08bccf70-3fee-42ec-b58a-b9e6b1ba3c53
+Ns 29.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd C:/Users/Octane/Downloads/ah-mk1-apache/source/AH Mk_1 Apache/mesh1_a.jpg
+map_Ks C:/Users/Octane/Downloads/ah-mk1-apache/source/AH Mk_1 Apache/mesh1_n_s.jpg
+map_d C:/Users/Octane/Downloads/ah-mk1-apache/source/AH Mk_1 Apache/mesh1_a_a.png
+
+newmtl 25ec437f-a30a-4018-954a-a42da7e60e66
+Ns 29.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd C:/Users/Octane/Downloads/ah-mk1-apache/source/AH Mk_1 Apache/mesh3_a.jpg
+map_Ks C:/Users/Octane/Downloads/ah-mk1-apache/source/AH Mk_1 Apache/mesh3_n_s.jpg
+map_d C:/Users/Octane/Downloads/ah-mk1-apache/source/AH Mk_1 Apache/mesh3_a_a.png
+
+newmtl 3bbf9f20-d112-49c7-9acb-740a889fe409
+Ns 255.000015
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.170000
+illum 1
+
+newmtl 83d7ce0a-c264-4662-95ac-7c020df51ee7
+Ns 29.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Octane/Downloads/ah-mk1-apache/source/AH Mk_1 Apache/ah_mk1_c.jpg
+map_Ks C:/Users/Octane/Downloads/ah-mk1-apache/source/AH Mk_1 Apache/ah_mk1_n_s.jpg
+
+newmtl 9868d0cd-67ab-4d2e-952c-b3c8b42c07bc
+Ns 255.000015
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.800000
+illum 1
+
+newmtl b4551ed9-1f15-475f-bc7e-8798ddd88aa8
+Ns 29.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd C:/Users/Octane/Downloads/ah-mk1-apache/source/AH Mk_1 Apache/ah_64_inside_a.jpg
+map_Ks C:/Users/Octane/Downloads/ah-mk1-apache/source/AH Mk_1 Apache/ah_64_inside_n_s.jpg
+map_d C:/Users/Octane/Downloads/ah-mk1-apache/source/AH Mk_1 Apache/ah_64_inside_a_a.png
+
+newmtl bd8111be-76a9-4802-9acc-5dd1067d2650
+Ns 255.000015
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.800000
+illum 1
