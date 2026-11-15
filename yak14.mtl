@@ -1,0 +1,32 @@
+# Blender 5.3.0 MTL File: 'yak.blend'
+# www.blender.org
+
+newmtl 3d091f34-6b0b-4de4-bb5c-5172429db9a8
+Ns 255.000015
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.170000
+illum 9
+
+newmtl 4cae97ec-279b-4403-98a2-a8c2e702e052
+Ns 29.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Octane/Downloads/yak-141-1-custom-war-thunder/source/Yak-141/textures/yak_141_c.jpg
+map_Ks C:/Users/Octane/Downloads/yak-141-1-custom-war-thunder/source/Yak-141/textures/yak_141_n_s.jpg
+
+newmtl a7551812-90bb-41a1-a654-a22306920586
+Ns 29.999998
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Octane/Downloads/yak-141-1-custom-war-thunder/source/Yak-141/textures/yak_141_inside_c.jpg
+map_Ks C:/Users/Octane/Downloads/yak-141-1-custom-war-thunder/source/Yak-141/textures/yak_141_inside_n_s.jpg
