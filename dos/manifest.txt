@@ -1,0 +1,7 @@
+source=x86BOOT.img
+cylinders=80
+heads=2
+spt=18
+sector=512
+chunk_bytes=18432
+total_bytes=1474560
